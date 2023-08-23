@@ -3,18 +3,21 @@ I am a software/web developer, highly skilled and dedicated with experience in d
 
 ### Languages
 
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=007396)
 
 ### Backend
+![.NET API](https://img.shields.io/badge/-.NET%20API-000?&logo=.NET)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 ### Libraries/Frameworks
+![.NET Entity Framework](https://img.shields.io/badge/-.NET%20Entity%20Framework-000?&logo=.NET)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
@@ -22,10 +25,10 @@ I am a software/web developer, highly skilled and dedicated with experience in d
 ![Ajax](https://img.shields.io/badge/-Ajax-000?&logo=Ajax)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 
-- 🔭 I'm currently working on **Instagram Clone App**
-- 🚀 Tech Stack I'm using: **MongoDb ExpressJs ReactJs NodeJs (MERN)** and **Amazon AWS Amplify Backend with ReactJs Frontend**
-- 🚀 I use daily: **Python**, **Javascript**, **Git**, **ReactJs**, **VS Code**
-- 💻 I work using: **React**, **MaterialUI**, **CharkaUI**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
+- 🔭 I'm currently working on a marketplace app: **WeConnect App**
+- 🚀 Tech Stack I'm using: **C# .NET API with EntityFramework Backend** and **ReactJs Frontend**
+- 🚀 I use daily: **C#**, **Python**, **Javascript**, **Git**, **ReactJs**, **VS Code**
+- 💻 I work using: **React**, **MaterialUI**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
 - ⚡️ Fun fact: I am a football fan, I enjoy solving coding exercises at my leisure
 
 Check Out [My Resume](https://docs.google.com/document/d/1HG93DA2YZ5ut_cl8pKw_47RC9nthDVlJYHVvXuMcDG0/edit?usp=sharing)
