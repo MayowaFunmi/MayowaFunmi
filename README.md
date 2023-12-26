@@ -6,6 +6,7 @@ I am a software/web developer, highly skilled and dedicated with experience in d
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=007396)
 
@@ -25,8 +26,8 @@ I am a software/web developer, highly skilled and dedicated with experience in d
 ![Ajax](https://img.shields.io/badge/-Ajax-000?&logo=Ajax)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 
-- 🔭 I'm currently working on a marketplace app: **WeConnect App**
-- 🚀 Tech Stack I'm using: **C# .NET API with EntityFramework Backend** and **ReactJs Frontend**
+- 🔭 I'm currently working on a school management app: **School Management Portal**
+- 🚀 Tech Stack I'm using: **NodeJs**, **ExpressJs**, **ReactJs**, **Typescript**, **MongoDB**
 - 🚀 I use daily: **C#**, **Python**, **Javascript**, **Git**, **ReactJs**, **VS Code**
 - 💻 I work using: **React**, **MaterialUI**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
 - ⚡️ Fun fact: I am a football fan, I enjoy solving coding exercises at my leisure
