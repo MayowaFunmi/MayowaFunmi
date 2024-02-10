@@ -27,9 +27,9 @@ I am a software/web developer, highly skilled and dedicated with experience in d
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 
 - 🔭 I'm currently working on a school management app: **School Management Portal**
-- 🚀 Tech Stack I'm using: **NodeJs**, **ExpressJs**, **ReactJs**, **Typescript**, **MongoDB**
+- 🚀 Tech Stack I'm using: **ReactJs**, **Typescript**, **Javascript**, **C#**, **.NET**
 - 🚀 I use daily: **C#**, **Python**, **Javascript**, **Git**, **ReactJs**, **VS Code**
-- 💻 I work using: **React**, **MaterialUI**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
+- 💻 I work using: **React**, **C#**, **.NET**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
 - ⚡️ Fun fact: I am a football fan, I enjoy solving coding exercises at my leisure
 
 Check Out [My Resume](https://docs.google.com/document/d/1HG93DA2YZ5ut_cl8pKw_47RC9nthDVlJYHVvXuMcDG0/edit?usp=sharing)
