@@ -31,7 +31,7 @@ I am a software/web developer, highly skilled and dedicated with experience in d
 - 💻 I work using: **Next.js**, **NestJS**, **.NET**, **Django**, **PostgreSQL**, **MongoDB**, **GitHub**
 - ⚡️ Fun fact: I am a football fan, I enjoy solving coding exercises at my leisure
 
-Check Out [My Resume](https://docs.google.com/document/d/1HG93DA2YZ5ut_cl8pKw_47RC9nthDVlJYHVvXuMcDG0/edit?usp=sharing)
+Check Out [My Resume](https://docs.google.com/document/d/18x53c_cm6wh9yo9DV3sKeMiBOAJykTSeeBD6pt0Y5qY/edit?usp=sharing)
 
 ###  📫 How to reach me:
 
