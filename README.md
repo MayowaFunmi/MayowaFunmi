@@ -6,30 +6,29 @@ I am a software/web developer, highly skilled and dedicated with experience in d
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS)
 
 ### Backend
-![.NET API](https://img.shields.io/badge/-.NET%20API-000?&logo=.NET)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=nestjs)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-000?&logo=django)
 
-### Libraries/Frameworks
-![.NET Entity Framework](https://img.shields.io/badge/-.NET%20Entity%20Framework-000?&logo=.NET)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
-![Ajax](https://img.shields.io/badge/-Ajax-000?&logo=Ajax)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+### Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MSSQL](https://img.shields.io/badge/-MSSQL-000?&logo=Microsoft%20SQL%20Server)
 
-- 🔭 I'm currently working on a school management app: **School Management Portal**
-- 🚀 Tech Stack I'm using: **ReactJs**, **Typescript**, **Javascript**, **C#**, **.NET**
-- 🚀 I use daily: **C#**, **Python**, **Javascript**, **Git**, **ReactJs**, **VS Code**
-- 💻 I work using: **React**, **C#**, **.NET**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
+- 🔭 I'm currently working on: **Worknation**
+- 🚀 Tech Stack I'm using: **Next.js**, **TypeScript**, **JavaScript**, **NestJS**, **PostgreSQL**, **Tailwind CSS**
+- 🚀 I use daily: **C#**, **Python**, **JavaScript**, **Git**, **Next.js**, **VS Code**
+- 💻 I work using: **Next.js**, **NestJS**, **.NET**, **Django**, **PostgreSQL**, **MongoDB**, **GitHub**
 - ⚡️ Fun fact: I am a football fan, I enjoy solving coding exercises at my leisure
 
 Check Out [My Resume](https://docs.google.com/document/d/1HG93DA2YZ5ut_cl8pKw_47RC9nthDVlJYHVvXuMcDG0/edit?usp=sharing)
